@@ -22,3 +22,6 @@
 [submodule "FastInflate"]
 	path = FastInflate
 	url = https://github.com/dreamgyf/FastInflate.git
+[submodule "FlexViewPagerTest"]
+	path = FlexViewPagerTest
+	url = https://github.com/wuyihao99/FlexViewPagerTest.git
